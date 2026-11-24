@@ -1,9 +1,0 @@
-{
-  "name": "boardscout-chess-assistant",
-  "private": true,
-  "scripts": {
-    "dev": "npx wrangler dev",
-    "deploy": "npx wrangler deploy",
-    "serve": "python -m http.server 8787"
-  }
-}
